@@ -5,7 +5,7 @@ window.Config = {
   SiteName: '伍林堂互联网通信状态',
 
   // 站点链接
-  SiteUrl: 'one.wulintang.cn',
+  SiteUrl: '/',
 
   // UptimeRobot Api 域名
   // 只需填写域名部分，默认为官网域名

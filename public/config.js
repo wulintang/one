@@ -5,13 +5,13 @@ window.Config = {
   SiteName: '伍林堂互联网通信状态',
 
   // 站点链接
-  SiteUrl: '/',
+  SiteUrl: 'one.wulintang.cn',
 
   // UptimeRobot Api 域名
   // 只需填写域名部分，默认为官网域名
   // 因官网 API 时不时的会 CROS 报错，可填自定义反代域名
   // 详见说明
-  ApiDomain: 'api.uptimerobot.com',
+  ApiDomain: 'one.wulintangos5675.workers.dev',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key

@@ -5,6 +5,7 @@ const Footer = () => {
   return (
     <div id="footer">
       <div className="container">
+      <p>亲爱的市民朋友伍林堂珍重提醒您：江苏警方反诈劝阻电话“96110”系专门针对避免您财产被骗受损而设，请您一旦收到来电，立即接听。</p>
       <p><img src="https://img.wulintang.cn/img/mabai.png"/>        <img src="https://img.wulintang.cn/img/hanzuwang.png"/></p>
       <p>基于 <a href="https://uptimerobot.com/" target="_blank">UptimeRobot</a> 接口制作，检测频率 5 分钟</p>
       <p>© <a href="https://www.wulintang.cn/" target="_blank">南通伍林堂文化传播有限公司</a> 版权所有</p>  
